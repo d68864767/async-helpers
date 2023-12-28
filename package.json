@@ -1,0 +1,29 @@
+{
+  "name": "async-helpers",
+  "version": "1.0.0",
+  "description": "Your package description goes here",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/async-helpers.git"
+  },
+  "keywords": [
+    "async",
+    "helpers"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/async-helpers/issues"
+  },
+  "homepage": "https://github.com/yourusername/async-helpers#readme",
+  "dependencies": {
+    // your dependencies go here
+  },
+  "devDependencies": {
+    // your dev dependencies go here
+  }
+}
